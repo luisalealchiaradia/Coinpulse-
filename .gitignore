@@ -1,0 +1,7 @@
+node_modules
+.Ds_Store
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
